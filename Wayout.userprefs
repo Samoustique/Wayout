@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Exit.cs">
+    <Files>
+      <File FileName="Assets\Script\Mission.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AIParasite.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Dead.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\playerFPS\Script\Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Medic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\playerFPS\Script\UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\playerFPS\Script\HealthManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Exit.cs" Line="34" Column="2" />
+      <File FileName="Assets\Assets\playerFPS\Script\PlayerDead.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Key.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\playerFPS\Script\Weapon2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Utility\ForcedReset.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

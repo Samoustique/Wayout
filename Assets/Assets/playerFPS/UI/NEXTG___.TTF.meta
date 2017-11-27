@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e717e0d50e329064e9cd475230a306fd
+timeCreated: 1491573390
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NextGames
+  fontNames:
+  - NextGames
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
